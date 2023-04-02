@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **GCP and Azure**
 
-- 💬 Ask me about **DevOps, Terraform, Jenkins, AWS, Azure**
+- 💬 Ask me about **DevOps, Terraform, Jenkins, Kubernetes**
 
 - 📫 How to reach me **sk.iitp19@gmail.com**
 
