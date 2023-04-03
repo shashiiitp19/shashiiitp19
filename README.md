@@ -1,6 +1,6 @@
 <!-- [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/C4D12AQF6-4QGS0Gw2Q/article-cover_image-shrink_720_1280/0/1623147132038?e=2147483647&v=beta&t=63_JWmPGVzpGN3Fj4Y33J6aF9gjXl8GgIckyfzZ3Jow))](https://shashiiitp19.github.io/) -->
 <h1 align="center">Hi 👋, I'm Shashi Kumar</h1>
-<h3 align="center">An IIT Patna alumnus and a passionate Cloud Platform Engineer.</h3>
+<h3 align="center">An IIT Patna alumnus and a passionate Cloud Platform Engineer with DevOps skills.</h3>
 <img align="left" alt="Coding" width=300 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2leei6IptgFYpN8xu-jqSADIpVnOZAGn-t4RPLvjmtQ&usqp=CAU&ec=48665699" alt="shashikumar" />
 
 
